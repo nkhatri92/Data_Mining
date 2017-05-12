@@ -3,7 +3,7 @@ Instructions to run the code
 Steps:
      
 1.	System requirements- A number of libraries are pre-installed with anaconda. The following libraries will be required to run the code and might have to be installed separately: NumPy, SciPy, Scikit-learn, imbalanced-learn, pandas, seaborn, matplotlib, xgboost. The installation of xgboost is a little problematic hence the code is attached in a different file and instruction to install xgboost on Mac OS will be posted separately on github. Since it’s a separate code, xgboost installation can be skipped and the main code can be run for results except attribute selection. 
-2.	Download the credit card csv file from my github link www.github.com/nkhatri92/Data_Mining
+2.	Download the credit card csv file from my github link https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcardfraud.zip
 3.	Download the code on your system, file name Final_Project_Code.py
 4.	Place the code and the data in the same folder
 5.	Open the code in any IDE of your choice
